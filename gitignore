@@ -1,0 +1,8 @@
+GXPEngine/Obj
+.vs
+GXPEngine.userprefs
+GXPEngine/bin/Debug
+GXPEngine/bin/Release
+.idea
+GXPEngine/bin/Debug/GXPEngine.pdb
+GXPEngine/bin/debug/GXPEngine.exe
